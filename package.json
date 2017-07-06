@@ -1,5 +1,5 @@
 {
-  "name": "google-platform",
+  "name": "google-component",
   "version": "1.0.0",
   "description": "Google platform loader",
   "browser": "google-platform.js",
