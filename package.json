@@ -1,6 +1,6 @@
 {
   "name": "google-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google platform loader",
   "browser": "google-platform.js",
   "main": "google-platform-node.js",
