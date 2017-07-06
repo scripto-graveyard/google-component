@@ -30,7 +30,7 @@
   "author": "Todd Kennedy <todd@selfassembled.org>",
   "license": "Apache-2.0",
   "dependencies": {
-    "bel": "^4.6.0",
+    "bel": "^5.0.2",
     "cache-component": "^5.0.0-1",
     "global": "^4.3.2",
     "load-script": "^1.0.0",
@@ -38,7 +38,7 @@
     "yo-yoify": "^3.7.3"
   },
   "devDependencies": {
-    "bankai": "^7.6.2",
+    "bankai": "^8.1.1",
     "browserify": "^14.3.0",
     "browserify-istanbul": "github:toddself/browserify-istanbul#strip-base-path",
     "choo": "^5.6.2",
