@@ -42,7 +42,6 @@ GooglePlatform.prototype._update = function () {
 }
 
 GooglePlatform.prototype.attachMetaTag = function attachMetaTag () {
-  console.log('Meta content is', this.metaContent)
   assert.ok(this.metaContent && this.metaContent.length > 0, 'You must supply a GOOGLE_CLIENT_ID')
   var metaTags = document.getElementsByTagName('meta')
 
