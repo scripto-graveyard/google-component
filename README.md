@@ -1,4 +1,6 @@
 # google-component
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/scriptoLLC/google-component.svg)](https://greenkeeper.io/)
 Interactions for Google's web-based OAuth flow.
 
 ## Usage
