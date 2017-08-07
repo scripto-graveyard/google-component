@@ -30,7 +30,7 @@
   "author": "Todd Kennedy <todd@selfassembled.org>",
   "license": "Apache-2.0",
   "dependencies": {
-    "bel": "^4.6.0",
+    "bel": "^5.0.3",
     "cache-component": "^5.0.0-1",
     "global": "^4.3.2",
     "load-script": "^1.0.0",
