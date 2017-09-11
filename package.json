@@ -38,7 +38,7 @@
     "yo-yoify": "^3.7.3"
   },
   "devDependencies": {
-    "bankai": "^7.6.2",
+    "bankai": "^8.2.0",
     "browserify": "^14.3.0",
     "browserify-istanbul": "github:toddself/browserify-istanbul#strip-base-path",
     "choo": "^6.0.0",
