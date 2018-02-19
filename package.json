@@ -47,7 +47,7 @@
     "nanobus": "^4.0.0",
     "opener": "^1.4.3",
     "run-series": "^1.1.4",
-    "standard": "^10.0.2",
+    "standard": "^11.0.0",
     "tape": "^4.6.3",
     "tape-istanbul": "^1.1.1",
     "tape-run": "^3.0.0"
