@@ -1,6 +1,11 @@
+# DEPRECATION NOTICE
+
+No longer in use. Archived for reference only.
+
+---
+
 # google-component
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/scriptoLLC/google-component.svg)](https://greenkeeper.io/)
 Interactions for Google's web-based OAuth flow.
 
 ## Usage
